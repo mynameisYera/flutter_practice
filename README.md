@@ -1,4 +1,3 @@
-My project is soska men ogan syndym zhostko 
+My project is boom
 
 
-https://github.com/mynameisYera/flutter_practice
